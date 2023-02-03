@@ -43,5 +43,4 @@ ensure dy_prospecting
 ### 自行导入 sql 文件到您的数据库内
 #
 
-## 感谢
-插件部分代码调用了 [glitchdetectors example handler](https://github.com/glitchdetector) 的 [prospecting](https://github.com/glitchdetector/fivem-prospecting-example) 插件
+## 感谢 插件部分代码调用了 [glitchdetectors example handler](https://github.com/glitchdetector) 的 [prospecting](https://github.com/glitchdetector/fivem-prospecting-example) 插件
